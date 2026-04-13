@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537897461618",
+    "project_id": "mapgo-86a36",
+    "storage_bucket": "mapgo-86a36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537897461618:android:630f90346274112da41feb",
+        "android_client_info": {
+          "package_name": "com.example.androidmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75erDICg8J8LBojr3CeVoH40I93oPRy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
